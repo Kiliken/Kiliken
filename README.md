@@ -1,7 +1,12 @@
-## Hi there 👋
 <a href="https://github.com/Kiliken">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Github%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
 </a>
+<br><br>
+<a href="https://github.com/Kiliken">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact" />
+</a>
+
+
 <!--
 **Kiliken/Kiliken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
