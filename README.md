@@ -1,10 +1,18 @@
-<a href="https://github.com/Kiliken">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
-</a>
-<br><br>
-<a href="https://github.com/Kiliken">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact" />
-</a>
+<table>
+  <tr>
+    <th>
+      GitHub Stats
+  <tr>
+    <td>
+      <a href="https://github.com/Kiliken">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
+      </a>
+  <tr>
+    <td>
+      <a href="https://github.com/Kiliken">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact" />
+      </a>
+</table>
 
 
 <!--
