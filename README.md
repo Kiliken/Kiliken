@@ -1,10 +1,14 @@
 <table>
   <tr>
     <th>
-      <img align="center" src="https://kiliken.altervista.org/terrainGen/getTerrain.php" width=500 />
+      <a href="https://kiliken.altervista.org/terrainGen/getTerrain.php" target="_blank" >
+        <img align="center" src="https://kiliken.altervista.org/terrainGen/getTerrain.php" width=500 />
+      </a>
   <tr>
     <td>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non metus varius, malesuada erat vel, condimentum tellus. Nullam nec lobortis leo, vel tincidunt eros. Pellentesque scelerisque dictum fermentum. Etiam vel interdum massa. Interdum et malesuada            fames ac ante ipsum primis in faucibus. Morbi hendrerit quis purus a laoreet. Sed ultricies enim vel est tincidunt vehicula. Nam faucibus tortor sit amet odio lacinia, id porta ex gravida. Maecenas euismod libero eu ligula congue, a cursus est interdum. Donec            efficitur varius turpis feugiat imperdiet. Vivamus venenatis ante diam, eu placerat orci efficitur condimentum. Ut justo nibh, porta vel orci sit amet, semper tincidunt lectus.
+      I'm a game programmer based in Tokyo who made programming my passion since I was 6 years old. <br>
+      Currently, I'm self-studying noise and procedural generation. <br>
+      I find it fascinating how a bunch of strings of code can create infinite worlds to explore.
   <tr>
     <td align=center>
       <a href="https://kiliken.github.io/">
