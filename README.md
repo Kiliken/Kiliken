@@ -1,43 +1,47 @@
-<table>
-  <tr>
-    <th>
-      <a href="https://kiliken.altervista.org/terrainGen/getTerrain.php" target="_blank" >
-        <img align="center" src="https://kiliken.altervista.org/terrainGen/getTerrain.php" width=500 />
-      </a>
-  <tr>
-    <td>
-      I'm a game programmer based in Tokyo who made programming my passion since I was 6 years old. <br>
-      Currently, I'm self-studying noise and procedural generation. <br>
-      I find it fascinating how a bunch of strings of code can create infinite worlds to explore.
-  <tr>
-    <td align=center>
-      <a href="https://kiliken.github.io/">
-        <img align="center" src="PortfolioButton.png" width=300 />
-      </a>
-  <tr>
-    <td align=center>
-      <a href="https://github.com/Kiliken">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
-      </a>
-  <tr>
-    <td align=center>
-      <a href="https://github.com/Kiliken">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact" />
-      </a>
-</table>
+<a href="https://kiliken.altervista.org/terrainGen/getTerrain.php" target="_blank" >
 
+![Logo](terrainLogo.jpg)
 
-<!--
-**Kiliken/Kiliken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm a game programmer based in Tokyo who really enjoys Procedural Generation and Stuff without UI.
+
+---
+
+### > Tech Stack_ 
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | C++, C#, C, PowerShell, JavaScript, PHP |
+| **Graphic APIs** | OpenGL, DirectX11 |
+| **Tools** | MSVC, GCC, CMake  |
+| **Engines & Frameworks** | Unity, Unreal Engine, SDL, SFML |
+
+---
+
+### > Portfolio & Blog_ 
+You can find my full portfolio and projects over at:
+ **[kiliken.github.io](https://kiliken.github.io/)**
+
+Or in case you just want to read about how I'm bad at coding:
+ **[kiliken.github.io/blog](https://kiliken.github.io/blogs.html)**
+
+---
+
+### > GitHub Stats_ 
+
+<a href="https://github.com/Kiliken">
+
+![Stats](https://github-readme-stats-alpha-blue-33.vercel.app/api?username=kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true)
+![Langs](https://github-readme-stats-alpha-blue-33.vercel.app/api/top-langs/?username=kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact)
+
+</a>
+
+---
+
+### > Connect with me_ 
+- **Website:** [kiliken.github.io](https://kiliken.github.io/)
+- **LinkedIn:** [francesco-paolo-mariani](https://www.linkedin.com/in/francesco-paolo-mariani-9914b3258)
+<!-- **Email:** [mymail@gmail.com](mailto:mymail@gmail.com) --> 
