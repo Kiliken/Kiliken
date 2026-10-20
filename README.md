@@ -1,6 +1,6 @@
 <a href="https://kiliken.altervista.org/terrainGen/getTerrain.php" target="_blank" >
 
-![Logo](terrainLogo.jpg)
+![Logo](readmeLogo.png)
 
 </a>
 
